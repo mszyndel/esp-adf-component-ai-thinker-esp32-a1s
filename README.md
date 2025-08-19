@@ -104,7 +104,7 @@ Home Assistant forum.
 
 * [The‘AI Thinker Audio Kit' Arduino Challenge](https://www.pschatzmann.ch/home/2021/12/06/the-ai-thinker-audio-kit-experience-or-nothing-is-right/)
   A series of posts about Ai Thinker ESP32 A1S Audio Kit
-* [Schematic](https://docs.ai-thinker.com/_media/esp32-audio-kit_v2.2_sch.pdf)
+* [Schematic](https://web.archive.org/web/20241216144927/https://docs.ai-thinker.com/_media/esp32-audio-kit_v2.2_sch.pdf)
 * [arduino-audiokit/tree/main/src/audio_board](https://github.com/pschatzmann/arduino-audiokit/tree/main/src/audio_board)
   An implementation for Arduino
 * [ES8388 User Guide](https://dl.radxa.com/rock2/docs/hw/ds/ES8388%20user%20Guide.pdf)
